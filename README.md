@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @player-29
+- 👋 Hi, I’m Ayush_Rathour
 - 👀 I’m interested in competetive programming and web devlopement
 - 🌱 I’m currently learning c++ and DSA
 - 💞️ I’m looking to collaborate on web developement
